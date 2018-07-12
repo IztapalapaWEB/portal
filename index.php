@@ -7,6 +7,10 @@
 </head>
 
 <body>
- hola Mundo
+	hOLA mUNDO mega
+	<p>
+		comandos generales 
+	</p>
+	<p>Menu interactivo</p>
 </body>
 </html>
